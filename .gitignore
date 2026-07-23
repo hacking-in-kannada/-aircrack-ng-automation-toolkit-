@@ -19,3 +19,6 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Git metadata is stored separately because the workspace .git mount is read-only
+/.git-data/
