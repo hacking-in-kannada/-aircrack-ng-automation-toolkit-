@@ -1,0 +1,21 @@
+# Build artifacts
+/build/
+/wifisec
+
+# Runtime output and captures
+/autocrack_output/
+*.cap
+*.cap-*
+*.pcap
+*.pcapng
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
